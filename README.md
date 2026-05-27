@@ -1,9 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Wastoon</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=3D+Computer+Vision+Researcher+🔭;Neural+Rendering+Engineer+✨;Spatial+AI+Builder+🗺️;Making+Machines+See+in+3D+🧠;NeRF+·+Gaussian+Splatting+·+SLAM+📡" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=3D+Computer+Vision+Researcher+🔭;Neural+Rendering+Engineer+✨;Spatial+AI+Builder+🗺️;Making+Machines+See+in+3D+🧠;NeRF+·+Gaussian+Splatting+·+SLAM+📡" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -84,12 +82,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wastoon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wastoon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wastoon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+  &nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wastoon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Wastoon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=Wastoon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -97,7 +96,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wastoon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Wastoon&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" />
 </p>
 
 ---
@@ -105,5 +104,5 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wastoon&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wastoon&theme=tokyo-night&hide_border=true&area=true" />
 </p>
