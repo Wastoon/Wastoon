@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Wastoon</h1>
+<h1 align="center">Hi there 👋, I'm Wastoon [KMnO4]</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=500&lines=3D+Computer+Vision+Researcher+🔭;Neural+Rendering+Engineer+✨;Spatial+AI+Builder+🗺️;Making+Machines+See+in+3D+🧠;NeRF+·+Gaussian+Splatting+·+SLAM+📡" alt="Typing SVG" />
