@@ -56,6 +56,15 @@
 ![PBR](https://img.shields.io/badge/Physically_Based_Rendering-8B4513?style=flat-square&logo=autodesk&logoColor=white)
 ![Ray Tracing](https://img.shields.io/badge/Ray_Tracing-76B900?style=flat-square&logo=nvidia&logoColor=white)
 
+**🎮 Real-Time Rendering / Simulation**
+
+![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
+![MetaHuman](https://img.shields.io/badge/MetaHuman-1A1A1A?style=flat-square&logo=epicgames&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![LuxCoreRender](https://img.shields.io/badge/LuxCoreRender-222222?style=flat-square)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=opengl&logoColor=white)
+![Vulkan](https://img.shields.io/badge/Vulkan-AC162C?style=flat-square&logo=vulkan&logoColor=white)
+
 **🗺️ Spatial AI**
 
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat-square&logo=ros&logoColor=white)
