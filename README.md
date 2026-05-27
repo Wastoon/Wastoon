@@ -82,9 +82,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="github-readme-stats-seven-xi-25.vercel.app/api?username=Wastoon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats-seven-xi-25.vercel.app/api?username=Wastoon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800" />
   &nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wastoon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" />
+  <img height="160" src="https://github-readme-stats-seven-xi-25.vercel.app/api/top-langs/?username=Wastoon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&cache_seconds=1800" />
 </p>
 
 <p align="center">
