@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Wastoon[KMnO4]</h1>
+<h1 align="center">Hi there 👋, I'm Wastoon</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -14,8 +14,8 @@
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/Wastoon[KMnO4]"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/Wastoon[KMnO4]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/Wastoon"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/Wastoon"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=YOURID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -84,12 +84,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wastoon[KMnO4]&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wastoon[KMnO4]&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Wastoon&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wastoon&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Wastoon[KMnO4]&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
+  <img src="https://streak-stats.demolab.com?user=Wastoon&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"/>
 </p>
 
 ---
@@ -97,7 +97,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Wastoon[KMnO4]&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Wastoon&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4"/>
 </p>
 
 ---
@@ -105,5 +105,5 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wastoon[KMnO4]&theme=tokyo-night&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wastoon&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
