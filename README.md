@@ -17,9 +17,8 @@
   <a href="https://yourblog.com"><img src="https://img.shields.io/badge/Blog-FF5722?style=flat-square&logo=blogger&logoColor=white"/></a>
   <a href="https://scholar.google.com/citations?user=YOURID"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=google-scholar&logoColor=white"/></a>
   <a href="mengrongye@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
 </p>
-
+- visit times: ![views since 2025/01/06](https://komarev.com/ghpvc/?username=Wastoon&color=green)
 ---
 
 ### 🛠️ Tech Stack
