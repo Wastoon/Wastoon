@@ -30,7 +30,7 @@ I build perception systems that help machines see, reconstruct, and reason about
 - 🔭 Focused on **3D perception, reconstruction, neural rendering, and spatial AI**
 - 🧠 Interested in **NeRF, 3D Gaussian Splatting, SLAM, differentiable rendering, and scene understanding**
 - 🧩 I enjoy connecting **computer vision, computer graphics, robotics, and ML systems**
-- 📍 Based in Singapore
+- 📍 Based in Beijing
 - 💬 Ask me about `3D Reconstruction`, `Scene Understanding`, `Neural Rendering`, `SLAM`
 
 ---
