@@ -13,7 +13,7 @@ I build perception systems that help machines see, reconstruct, and reason about
   <a href="https://github.com/Wastoon">
     <img src="https://img.shields.io/badge/GitHub-Wastoon-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/Wastoon">
+  <a href="https://x.com/rong_ye4997">
     <img src="https://img.shields.io/badge/Twitter-Wastoon-000000?style=flat-square&logo=x&logoColor=white" alt="Twitter / X" />
   </a>
   <a href="https://linkedin.com/in/Wastoon">
